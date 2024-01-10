@@ -1,0 +1,2 @@
+# inactive-unfollow
+(^^) xのinactiveなuserをunfollowするchrome extension
